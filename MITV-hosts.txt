@@ -274,3 +274,5 @@ wq.360buyimg.com
 iacc.qq.com
 vfiles.gtimg.cn
 adsmind.gdtimg.com
+rmonitor.qq.com
+gateway.icloud.com

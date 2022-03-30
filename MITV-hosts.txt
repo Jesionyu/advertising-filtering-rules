@@ -275,4 +275,26 @@ iacc.qq.com
 vfiles.gtimg.cn
 adsmind.gdtimg.com
 rmonitor.qq.com
-gateway.icloud.com
+||rmonitor.qq.com^$important
+@@||tracker.ai.xiaomi.com^$important
+@@||app.chat.xiaomi.net^$important
+@@||cn.app.chat.xiaomi.net^$important
+@@||configuration.apple.com^$important
+@@||bag.itunes.apple.com^$important
+@@||mesu.apple.com^$important
+@@||gateway.icloud.com^$important
+@@||www.baidu.com^$important,document
+kpkuang.cc###mar_dl_out1 > img
+kpkuang.cc###mar_dl_out2 > img
+kpkuang.cc###vodplay-ad-onmid
+58pic.com###qt-app > div.qt-app-box > div.banner-box:first-child > div.slide-row.index-banner-swiper.swiper-container-horizontal.swiper-container-fade > div.banner-tip:first-child > div.fill.design-entry
+58pic.com###qt-app > div.qt-app-box > div.nav-floor:nth-child(17) > div.nav-content-box
+58pic.com###qt-app > div.qt-app-box > div.nav-floor:nth-child(16) > div.nav-content-box > div.assessModel:last-child > ul:first-child > li
+58pic.com###qt-app > div.qt-app-box > div.nav-floor:nth-child(16) > div.nav-content-box
+58pic.com###qt-app > div.qt-app-box > div.search-v3-row > div.search-v3-back:first-child
+ibaotu.com##div.ep:nth-child(13) > div.ep-main > div.ep-main-list:last-child > div.main-list-item:first-child
+ibaotu.com##div.ep:nth-child(13) > div.ep-main
+ibaotu.com##div.skin-wrap.body-background-gradient:nth-child(9) > div.bt-body.classify:last-child > div.plus_logo_wrap:last-child > a.ibaotu-md-click > img
+ibaotu.com##aside.pb-aside-right:nth-child(38) > aside.aside-bar-right:first-child
+ibaotu.com##aside.pb-aside-right:nth-child(38)
+555dianying.cc###home_slide > ul.carousel-indicators.carousel-indicators-text.hidden-md.hidden-sm.hidden-xs:nth-child(2) > li:first-child

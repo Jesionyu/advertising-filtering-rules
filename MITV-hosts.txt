@@ -298,3 +298,27 @@ ibaotu.com##div.skin-wrap.body-background-gradient:nth-child(9) > div.bt-body.cl
 ibaotu.com##aside.pb-aside-right:nth-child(38) > aside.aside-bar-right:first-child
 ibaotu.com##aside.pb-aside-right:nth-child(38)
 555dianying.cc###home_slide > ul.carousel-indicators.carousel-indicators-text.hidden-md.hidden-sm.hidden-xs:nth-child(2) > li:first-child
+||btrace.qq.com^$important
+||mtrace.qq.com^$important
+||ulogs.umengcloud.com^$important
+||vqq.admaster.com.cn^$important
+||andrqd.play.aiseet.atianqi.com^$important
+||otheve.play.aiseet.atianqi.com^$important
+||othstr.play.aiseet.atianqi.com^$important
+||omgmta.play.aiseet.atianqi.com^$important
+||news-l.play.aiseet.atianqi.com^$important
+||p-l.play.aiseet.atianqi.com^$important
+||t-l.play.aiseet.atianqi.com^$important
+||news-l.play.ott.video.qq.com^$important
+||omgmta.play.ott.video.qq.com^$important
+||aiseet.aa.atianqi.com^$important
+||dp3.play.aiseet.atianqi.com^$important
+||livep.l.aiseet.atianqi.com^$important
+||lives.l.aiseet.atianqi.com^$important
+||monitor-uu.play.aiseet.atianqi.com^$important
+||sdkconfig.play.aiseet.atianqi.com^$important
+||tencent-dtv.m.cn.miaozhen.com^$important
+||mtrace.play.aiseet.atianqi.com^$important
+||btrace.play.aiseet.atianqi.com^$important
+||adashx.m.taobao.com^$important
+||adashbc.ut.taobao.com^$important

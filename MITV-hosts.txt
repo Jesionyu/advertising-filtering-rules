@@ -380,3 +380,6 @@ ibaotu.com##aside.pb-aside-right:nth-child(38)
 ||mc.corel.com
 ||origin-mc.corel.com
 ||iws.corel.com
+||acc.qq.com
+||puui.qpic.cn
+||smssdk8.bizport.cn
